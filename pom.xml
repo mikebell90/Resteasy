@@ -14,7 +14,7 @@
 
     <groupId>org.jboss.resteasy</groupId>
     <artifactId>resteasy-jaxrs-all</artifactId>
-    <version>4.0.0.Beta4</version>
+    <version>4.0.0-OT-4</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -130,7 +130,7 @@
                     <dependency>
                         <groupId>org.jboss.resteasy</groupId>
                         <artifactId>resteasy-dependencies</artifactId>
-                        <version>${project.version}</version>
+                        <version>4.0.0.Beta4</version>
                         <type>pom</type>
                         <scope>import</scope>
                     </dependency>
